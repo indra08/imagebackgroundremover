@@ -1,4 +1,4 @@
-package dev.eren.removebg
+package com.insantech.bgremover
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -6,9 +6,9 @@ import android.graphics.Canvas
 import android.graphics.Paint
 import android.graphics.PorterDuff
 import android.graphics.PorterDuffXfermode
-import dev.eren.removebg.common.ModelTypes
-import dev.eren.removebg.utils.FileUtils.assetFilePath
-import dev.eren.removebg.utils.NetUtils
+import com.insantech.bgremover.common.ModelTypes
+import com.insantech.bgremover.utils.FileUtils.assetFilePath
+import com.insantech.bgremover.utils.NetUtils
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

@@ -1,4 +1,4 @@
-package dev.eren.removebg.utils
+package com.insantech.bgremover.utils
 
 import android.content.Context
 import java.io.File

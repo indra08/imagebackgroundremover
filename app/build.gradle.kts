@@ -5,14 +5,14 @@ plugins {
 }
 
 android {
-    namespace = "dev.eren.removebg"
-    compileSdk = 33
+    namespace = "com.insantech.bgremover"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "dev.eren.removebg"
+        applicationId = "com.insantech.bgremover"
         minSdk = 24
-        targetSdk = 33
-        versionCode = 1
+        targetSdk = 34
+        versionCode = 2
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
@@ -60,6 +60,7 @@ dependencies {
     implementation(libs.ui.graphics)
     implementation(libs.ui.tooling.preview)
     implementation(libs.material3)
+    implementation(libs.androidx.ui.test)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(libs.espresso.core)

@@ -1,4 +1,4 @@
-package dev.eren.removebg.ui.theme
+package com.insantech.bgremover.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package dev.eren.removebg.ui.theme
+package com.insantech.bgremover.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

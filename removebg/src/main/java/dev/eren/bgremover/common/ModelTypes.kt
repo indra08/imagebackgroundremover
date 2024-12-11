@@ -1,4 +1,4 @@
-package dev.eren.removebg.common
+package com.insantech.bgremover.common
 
 /**
  * Created by erenalpaslan on 18.08.2023

@@ -6,8 +6,8 @@ plugins {
 }
 
 android {
-    namespace = "dev.eren.removebg"
-    compileSdk = 33
+    namespace = "com.insantech.bgremover"
+    compileSdk = 34
 
     defaultConfig {
         minSdk = 24

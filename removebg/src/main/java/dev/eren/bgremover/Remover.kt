@@ -1,4 +1,4 @@
-package dev.eren.removebg
+package com.insantech.bgremover
 
 import kotlinx.coroutines.flow.Flow
 
